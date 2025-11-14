@@ -52,7 +52,7 @@ ol {
   background-color: #d9d9d9;
 }
 
-/* .content {
+.content {
   display: grid;
   grid-template-columns: 711px 1fr;
   align-items: end;
@@ -334,4 +334,4 @@ ol {
 .result__video-container,
 .content__list-container {
   position: relative;
-} */
+}
